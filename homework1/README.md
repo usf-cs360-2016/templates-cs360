@@ -21,8 +21,8 @@ The grade for this homework will be broken down as follows:
 You must fully complete the following core functionality before working on extra functionality:
 
 - [ ] `40pt` Create a **horizontal bar chart** that encodes neighborhood vertically along the y-axis and total number of incidents along the x-axis.
-- [ ] ` 5pt` Sort the bars along the y-axis by total number of incidents (not alphabetically).
-- [ ] ` 5pt` Add necessary annotations. This includes an x-axis line, x-axis tick marks, x-axis tick labels, y-axis tick labels (but no axis line or tick marks), label text to the x-axis, and title text to the entire visualization.
+- [ ] `05pt` Sort the bars along the y-axis by total number of incidents (not alphabetically).
+- [ ] `05pt` Add necessary annotations. This includes an x-axis line, x-axis tick marks, x-axis tick labels, y-axis tick labels (but no axis line or tick marks), label text to the x-axis, and title text to the entire visualization.
 
 Once you have completed the above, you may begin on extra functionality.
 
@@ -32,7 +32,7 @@ You may complete the following extra functionality in any order:
 
 - [ ] `20pt` Create a **stacked horizontal bar chart** that encodes the category of property crime with color. Use the same sorting and annotations as before.
 - [ ] `20pt` Create a **normalized (100%) stacked horizontal bar chart** that encodes the category of property crime with color. Use the same sorting and annotations as before.
-- [ ] ` 5pt` Add **color legend** to your stacked bar chart(s). If you use the same colors in multiple charts, you only need to include the legend once.
+- [ ] `05pt` Add **color legend** to your stacked bar chart(s). If you use the same colors in multiple charts, you only need to include the legend once.
 
 :+1: You can earn extra credit by completing extra functionality. Your final grade will be capped at 105% total. (A little goes a long way!)
 
