@@ -1,6 +1,6 @@
 # Homework 1 - Bar Charts #
 
-For this homework assignment, you must visualize the SF Property Crimes 2015 dataset using a horizontal bar chart in D3.js. See below for details.
+For this homework assignment, you must visualize the [SF Property Crimes 2015](SF Property Crimes 2015 - Neighborhood by Category.csv) dataset using a horizontal bar chart in D3.js. See below for details.
 
 ## Grade Breakdown ##
 
@@ -57,6 +57,12 @@ See this [Tableau Public Workbook](https://public.tableau.com/views/SFPropertyCr
 ![Examples](Examples.png)
 
 ## Sources ##
+
+You can download the dataset from either location:
+
+- [Exported CSV](SF Property Crimes 2015 - Neighborhood by Category.csv)
+
+- [Google Drive](https://docs.google.com/spreadsheets/d/1TRDV3psBTJ-FcS4RKwF6qLstIwEm3AwAleGJSbA1TsM/edit?usp=sharing)
 
 The data comes from the [SFPD Incidents](https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry) dataset from [SF OpenData](https://data.sfgov.org/). The following filters were applied before calculating totals:
 
