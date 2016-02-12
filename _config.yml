@@ -1,0 +1,12 @@
+name: CS 360 Data Visualization
+author: University of San Francisco
+
+# Filter
+show_drafts: null
+future: true
+unpublished: false
+
+# Output
+permalink: date
+timezone: America/Los_Angeles
+
