@@ -12,9 +12,12 @@ Each group must have 3 to 4 students, up to a maximum of 8 groups total. Each gr
 
 Each group must select a dataset from the list below, and use this dataset for all their visualizations.
 
-- Pending
+- [Case Data from San Francisco 311](https://data.sfgov.org/City-Infrastructure/Case-Data-from-San-Francisco-311-SF311-/vw6y-z8j6)
+- [San Francisco Budget](https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v)
 
-You are welcome to filter and preprocess these datasets to focus only on what you are interested in and to reduce the size of the dataset if necessary. You can do this preprocessing outside of JavaScript to generate a clean, compact CSV or JSON file that will be loaded by your visualizations. You can use Python, R, Excel, or the free [Trifacta Wrangler](https://www.trifacta.com/products/wrangler/) for this preprocessing stage.
+You should filter these datasets on [SF OpenData](https://data.sfgov.org/getting-started) to focus only on what you are interested in and to reduce the size of the dataset. Be careful not to make your dataset too large, or it will be impossible to load in the browser. Be careful not to make your dataset too small, or it will be hard to find 3 to 4 interesting visualizations. 
+
+You can perform additional preprocessing if necessary to generate a single, clean, and compact CSV or JSON file that will be loaded by your visualizations. You can use Python, R, Excel, or the free [Trifacta Wrangler](https://www.trifacta.com/products/wrangler/) for this preprocessing stage. **However, all visualizations should load the same file.** This means some preprocessing may have to happen in JavaScript depending on the visualization.
 
 :page_facing_up: *You will have to submit a proposal with the dataset and visualization techniques you plan to use in Canvas roughly 2 weeks before your midterm project is due.*
 
