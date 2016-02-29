@@ -20,28 +20,13 @@ All of the following requirements must be satisfied for your submission to earn 
 
 You must choose **exactly one** of the following multivariate visualization techniques to implement in both Tableau and D3. The technique you choose will determine your the possible score:
 
-| Technique                | Breakdown             | Points |
-|:-------------------------|:----------------------|-------:|
-| **Bubble Plot**          | Tableau Prototype     |  30pts |
-|                          | Tableau Customization |  10pts |
-|                          | D3 Implementation     |  30pts |
-|                          | D3 Customization      |  10pts |
-|                          | **Total Possible:**   |  80pts |
-| **Heatmap**              | Tableau Prototype     |  30pts |
-|                          | Tableau Customization |  10pts |
-|                          | D3 Implementation     |  30pts |
-|                          | D3 Customization      |  10pts |
-|                          | **Total Possible:**   |  80pts |
-| **Scatterplot Matrix**   | Tableau Prototype     |  40pts |
-|                          | Tableau Customization |  10pts |
-|                          | D3 Implementation     |  40pts |
-|                          | D3 Customization      |  10pts |
-|                          | **Total Possible:**   | 100pts |
-| **Parallel Coordinates** | Tableau Prototype     |  40pts |
-|                          | Tableau Customization |  10pts |
-|                          | D3 Implementation     |  40pts |
-|                          | D3 Customization      |  10pts |
-|                          | **Total Possible:**   | 100pts |
+| Description | Bubble Plot | Heatmap | Scatterplot Matrix | Parallel Coordinates |
+|:------------|:-----------:|:-------:|:------------------:|:--------------------:|
+| Tableau Prototype | 30pts | 30pts | 40pts | 40pts | 
+| Tableau Customization | 10pts | 10pts | 10pts | 10pts |
+| D3 Implementation | 30pts | 30pts | 40pts | 40pts | 
+| D3 Customization | 10pts | 10pts | 10pts | 10pts |
+| **Total Possible** | **80pts** | **80pts** | **100pts** | **100pts** |
 
 You must complete the Tableau prototype **BEFORE** the D3 implementation. No matter which technique you choose, your visualizations should encode *at least* 4 columns and include *at least* 50 rows from the dataset. You are encouraged to visualize more of the dataset if possible.
 
