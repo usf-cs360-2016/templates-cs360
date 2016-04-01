@@ -26,11 +26,11 @@ This assignment is worth 40 points total. You may implement up to 60 points of f
 
 - Choose one or more of the following hover interactions to implement:
   
-  - `[20 pts]` Draw a tooltip with the point and value label of the point closest to the mouse. You will need to use a [Voronoi tessellation](http://bl.ocks.org/mbostock/8033015) for this interaction.
-  
   - `[10 pts]` Draw each individual point for the lines (you will have to change the line interpolation), and show a tooltip with the point value when you hover over that point. **This interaction should not be combined with the previous interaction (using Voronoi tessellation)!**
   
   - `[10 pts]` Draw each individual point for the lines (you will have to change the line interpolation), and show drop lines from the point to the appropriate locations on the x-axis and y-axis when you hover over that point.
+
+  - `[20 pts]` Draw a tooltip with the point and value label of the point closest to the mouse. You will need to use a [Voronoi tessellation](http://bl.ocks.org/mbostock/8033015) for this interaction.
 
 - Choose one or more of the following zoom interactions to implement:
 
