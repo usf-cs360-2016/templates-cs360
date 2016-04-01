@@ -34,7 +34,7 @@ This assignment is worth 40 points total. You may implement up to 60 points of f
 
 - Choose one or more of the following zoom interactions to implement:
 
-  - `[20 pts]` Add the ability to zoom and pan using the mouse. You will need to use the zoom behavior [(demo 1)](http://bl.ocks.org/mbostock/4015254) [(demo 2)](http://bl.ocks.org/mbostock/3892919) in D3 for this interaction. You only need to zoom in the x-direction, and do not need to reposition the city names.
+  - `[10 pts]` Add the ability to zoom and pan using the mouse. You will need to use the zoom behavior [(demo 1)](http://bl.ocks.org/mbostock/4015254) [(demo 2)](http://bl.ocks.org/mbostock/3892919) in D3 for this interaction. You only need to zoom in the x-direction, and do not need to reposition the city names.
 
   - `[20 pts]` Add the ability to zoom on a single month when you click. You can add a click interaction to the x-axis labels using the `d3.selectAll(".x .tick text")` selection, and get the x location of the mouse according to the outer `g` element using `d3.mouse(this.parentNode.parentNode)[0]`, and converting that to the nearest date using [scale.invert()](https://github.com/mbostock/d3/wiki/Time-Scales#invert).
 
