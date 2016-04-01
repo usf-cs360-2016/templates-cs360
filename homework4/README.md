@@ -24,7 +24,7 @@ This assignment is worth 40 points total. You may implement up to 60 points of f
   
   - `[20 pts]` Add the ability to click on the city text to brush that line. The other lines should turn light grey, and only the line selected should be colored. Clicking the text again should turn off the brush functionality. *(You do not have to worry about lines being drawn on top of each other for now.)*
 
-- Choose one or more of the following hover interactions to implement:
+- Choose **one** or more of the following hover interactions to implement:
   
   - `[10 pts]` Draw each individual point for the lines (you will have to change the line interpolation), and show a tooltip with the point value when you hover over that point. **This interaction should not be combined with the previous interaction (using Voronoi tessellation)!**
   
@@ -32,7 +32,7 @@ This assignment is worth 40 points total. You may implement up to 60 points of f
 
   - `[20 pts]` Draw a tooltip with the point and value label of the point closest to the mouse. You will need to use a [Voronoi tessellation](http://bl.ocks.org/mbostock/8033015) for this interaction.
 
-- Choose one or more of the following zoom interactions to implement:
+- Choose **one** of the following zoom interactions to implement:
 
   - `[10 pts]` Add the ability to zoom and pan using the mouse. You will need to use the zoom behavior [(demo 1)](http://bl.ocks.org/mbostock/4015254) [(demo 2)](http://bl.ocks.org/mbostock/3892919) in D3 for this interaction. You only need to zoom in the x-direction, and do not need to reposition the city names.
 
