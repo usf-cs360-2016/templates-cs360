@@ -2,6 +2,7 @@
 
 It is your favorite block again! Add some interactivity to the [Multi-Series Line Chart](http://bl.ocks.org/mbostock/3884955) example for this **mini-homework**. Go to the [underlying Gist](https://gist.github.com/mbostock/3884955) for the [Multi-Series Line Chart](http://bl.ocks.org/mbostock/3884955) block and download the code. Place it in your homework repository, and start adding some interactivity!
 
+:bulb: This mini-homework will be included in the "Homework" category, but will be worth fewer points than a normal homework.
 
 ## Link Submission
 
