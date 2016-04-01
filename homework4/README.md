@@ -39,3 +39,13 @@ This assignment is worth 40 points total. You may implement up to 60 points of f
   - `[20 pts]` Add the ability to zoom on a single month when you click. You can add a click interaction to the x-axis labels using the `d3.selectAll(".x .tick text")` selection, and convert the x location of the mouse to the nearest date using [scale.invert()](https://github.com/mbostock/d3/wiki/Time-Scales#invert).
 
 Bonus: Check out the [brush](https://github.com/mbostock/d3/wiki/SVG-Controls) control in D3, and figure out a way to apply it!
+
+## Hints
+
+If will be easier to do certain operations if you give your lines an ID. However, IDs may not contain spaces and should be unique. One way to do this is to use the first three letters of the city name. Try the following in the JavaScript console:
+
+```
+"San Francisco".substring(0, 3).toUpperCase();
+```
+
+Whatever you do, make sure it is consistent so you can always figure out the appropriate ID from the city name.
