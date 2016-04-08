@@ -12,7 +12,7 @@ The dataset can be downloaded at:
 
 However, please use the CSV file provided here directly:
 
-<Tree_Maintenance_2015.csv>
+[Tree_Maintenance_2015.csv](Tree_Maintenance_2015.csv)
 
 Requests marked as transfered, canceled, duplicated, or invalid were removed. Requests without valid GPS coordinates, district, or neighborhood information were also removed. And, some basic preprocessing has been done to make certain columns more readable.
 
