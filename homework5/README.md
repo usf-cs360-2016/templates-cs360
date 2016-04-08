@@ -90,13 +90,13 @@ You should have a details-on-demand interaction **and** either brushing, filteri
 
 :bulb: I recommend you create a working version of your homework without this brush/filter/zoom interactivity first, and save it as a branch or release on Github. Then, attempt to implement this interactivity and revert to the previous version if you are unable to get it working. *It is possible to pass this assignment without brush/filter/zoom interactivity.*
 
-## Details on Demand
+### Details on Demand
 
 You should have a details-on-demand interaction. For example, show details when the mouse hovers over a region and/or symbol. You should implement this in base D3---please do not use a tooltip library.
 
 Your details should be readable and informative. Think about which details will be useful, and adjust the formatting of the text as appropriate. 
 
-## Zooming/Panning
+### Zooming/Panning
 
 Here are some examples specific for maps for zooming/panning:
 
@@ -106,7 +106,7 @@ Here are some examples specific for maps for zooming/panning:
 
 This type of interactivity will work with any visualization type, but can be tricky to properly scale the size of symbols.
 
-## Brushing/Filtering
+### Brushing/Filtering
 
 For brushing or filtering, you will need to be creative. You should choose a column in the dataset with semi-categorical information (or a date/time column), and then how you want to control which information is brushed/filtered. 
 
